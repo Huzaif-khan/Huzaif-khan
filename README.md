@@ -28,15 +28,6 @@ I am a passionate learner currently enrolled in the **MERN Stack Development** p
 
 ---
 
-### 📊 My Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Huzaif-khan&layout=compact&theme=radical)
-
----
-
-### 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=Huzaif-khan&theme=radical&no-frame=true)
----
-
 ### 📫 How to reach me:
 - **LinkedIn:** https://www.linkedin.com/in/muhammad-huzaif-061973393/
 - **Portfolio:** [Coming Soon!]
