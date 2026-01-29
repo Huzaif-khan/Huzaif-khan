@@ -29,5 +29,5 @@ I am a passionate learner currently enrolled in the **MERN Stack Development** p
 ---
 
 ### 📫 How to reach me:
-- **LinkedIn:**(https://www.linkedin.com/in/muhammad-huzaif-061973393/)
+- LinkedIn:https://www.linkedin.com/in/muhammad-huzaif-061973393/
 - **Portfolio:** [Coming Soon!]
