@@ -28,6 +28,13 @@ I am a passionate learner currently enrolled in the **MERN Stack Development** p
 
 ---
 
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Huzaif-khan&show_icons=true&theme=tokyonight"/>
+</p>
+
+---
+
 ### 📫 How to reach me:
 - LinkedIn:https://www.linkedin.com/in/muhammad-huzaif-061973393/
 - **Portfolio:** [Coming Soon!]
