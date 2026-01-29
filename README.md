@@ -29,7 +29,7 @@ I am a passionate learner currently enrolled in the **MERN Stack Development** p
 ---
 
 ### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Huzaif-khan&show-icons=true&theme=radical)
+![GitHub Stats] (https://github-readme-stats.vercel.app/api?username=Huzaif-khan&show_icons=true&theme=radical)
 
 ---
 
