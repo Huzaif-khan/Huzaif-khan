@@ -34,5 +34,5 @@ I am a passionate learner currently enrolled in the **MERN Stack Development** p
 ---
 
 ### 📫 How to reach me:
-- **LinkedIn:** [linkedin.com/in/apka-profile](https://linkedin.com/in/apka-profile)
+- **LinkedIn:** https://www.linkedin.com/in/muhammad-huzaif-061973393/
 - **Portfolio:** [Coming Soon!]
